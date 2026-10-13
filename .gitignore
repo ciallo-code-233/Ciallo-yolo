@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# 作业：模型权重文件
+*.pt
+*.pth
+
+# 作业：视频文件
+*.mp4
+*.avi
+*.mov
+
